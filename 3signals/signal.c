@@ -1,4 +1,8 @@
-
+/*
+** Description:
+**     basic use of signal
+**     more usage is in 2fork directory.
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
